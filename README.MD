@@ -1,7 +1,6 @@
 # Sudoku-GUI-Solver
 
 This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI using pygame library, as well as a text based version.
-To confirm that value press the ENTER key on that box. Finally to solve the board press SPACE, sit back and watch the algorithm run.
 
 Run Sudoku.py to play.
 
